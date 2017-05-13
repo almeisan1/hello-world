@@ -1,2 +1,6 @@
 # hello-world
-Hello World
+Hi Hello World,
+
+This is my Hello World refresher code!
+
+I am excited!!
